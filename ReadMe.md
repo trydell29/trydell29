@@ -1,5 +1,5 @@
 # About Me:
-Engineering student building high-performance robotics and simulation systems.Recent Work:<br>- Devleoped a lost-cost tendon-drive robotic arm to study the effect that hobbyist materials have on dexterity and elbow torque<br>- Developed physics simulations that replicate laboratory environments<br>
+Engineering student building high-performance robotics and simulation systems.<br>Recent Work:<br>- Devleoped a lost-cost tendon-drive robotic arm to study the effect that hobbyist materials have on dexterity and elbow torque<br>- Developed physics simulations that replicate laboratory environments<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerrydell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trydell29@gmail.com) 
