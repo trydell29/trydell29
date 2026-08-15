@@ -1,6 +1,5 @@
-# 💫 About Me:
-Engineering student building high-performance robotics and simulation systems.<br><br>My work applies control theory and real-time embedded software to physical systems I design, while translating mathematical models into reliable computational simulations.<br><br>Recent Work:<br>- Architected modular C++ robotics frameworks<br>- Implemented autonomous motion algorithms<br>- Developed physics simulations that replicate laboratory environments<br><br>Core Competencies:<br>- Control systems<br>- Real-time task concurrency and resource management<br>- Scientific computing and simulation<br>- Data modeling and system integration<br><br>I build systems at the intersection of hardware and software, with an emphasis on reliability, performance, and scalable design.
-
+# About Me:
+Engineering student building high-performance robotics and simulation systems.Recent Work:<br>- Devleoped a lost-cost tendon-drive robotic arm to study the effect that hobbyist materials have on dexterity and elbow torque<br>- Developed physics simulations that replicate laboratory environments<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tylerrydell) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:trydell29@gmail.com) 
